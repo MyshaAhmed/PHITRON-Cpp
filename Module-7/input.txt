@@ -1,0 +1,20 @@
+
+When marks are unique or different :
+6
+Sakib 15 89
+Rakib 18 78
+Aakib 24 75
+Sifat 23 92
+Rifat 28 95
+Ifat 17 86
+
+
+if marks are same, sort by roll :
+
+6
+Sakib 15 92
+Rakib 18 92
+Aakib 24 92
+Sifat 23 92
+Rifat 28 92
+Ifat 17 92
