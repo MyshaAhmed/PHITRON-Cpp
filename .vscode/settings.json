@@ -5,6 +5,10 @@
         "iostream": "cpp",
         "xlocale": "cpp",
         "algorithm": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "initializer_list": "cpp",
+        "type_traits": "cpp",
+        "vector": "cpp",
+        "xtree": "cpp"
     }
 }
